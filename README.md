@@ -9,3 +9,7 @@ conda create -p venv python==3.8
 ```
 pip insatll -r requirements.txt
 ```
+### Install the entire package
+```
+python setup.py install
+```
